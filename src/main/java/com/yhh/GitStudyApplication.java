@@ -9,6 +9,7 @@ public class GitStudyApplication {
     public static void main(String[] args) {
         //SpringApplication.run(GitStudyApplication.class, args);
         System.out.println("12322");
+        System.out.println("12322");
     }
 
 }
