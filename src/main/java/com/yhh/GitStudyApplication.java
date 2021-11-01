@@ -14,6 +14,8 @@ public class GitStudyApplication {
         System.out.println("push2");
         System.out.println("pull test");
         System.out.println("gitee test");
+        System.out.println("github 修改-gitee同步");
+        
     }
 
 }
