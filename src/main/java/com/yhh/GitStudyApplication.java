@@ -13,6 +13,7 @@ public class GitStudyApplication {
         System.out.println("master");
         System.out.println("push2");
         System.out.println("pull test");
+        System.out.println("gitee test");
     }
 
 }
