@@ -11,7 +11,7 @@ public class GitStudyApplication {
         System.out.println("12322");
         System.out.println("hot-fix-test");
         System.out.println("master");
-        System.out.println("push");
+        System.out.println("push2");
     }
 
 }
